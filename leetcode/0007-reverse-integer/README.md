@@ -4,7 +4,8 @@
 
 参考：
 
-- https://leetcode-cn.com/problems/two-sum
+- https://leetcode-cn.com/problems/reverse-integer/
+- https://books.halfrost.com/leetcode/ChapterFour/0001~0099/0007.Reverse-Integer/
 
 ## 问题
 
