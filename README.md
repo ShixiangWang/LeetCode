@@ -7,6 +7,8 @@
 
 ## 目录
 
+- 0001-两数之和：[R](./leetcode/0001-two-sum/main.R) - [Go](leetcode/0001-two-sum/main.go)
+
 ## 许可协议
 
 MIT
