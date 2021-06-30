@@ -7,7 +7,8 @@
 
 ## 目录
 
-- 0001-两数之和：[R](./leetcode/0001-two-sum/main.R) - [Go](leetcode/0001-two-sum/main.go)
+- 0001-两数之和：[R](leetcode/0001-two-sum/main.R) - [Go](leetcode/0001-two-sum/main.go)
+- 0007-整数逆转：[R](leetcode/0007-reverse-integer/main.R) - [Go](leetcode/0007-reverse-integer/main.go)
 
 ## 许可协议
 
